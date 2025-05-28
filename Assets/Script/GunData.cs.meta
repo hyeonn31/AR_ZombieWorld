@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1097f406f544745209c202c93366087c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ShotClip: {fileID: 8300000, guid: deaf9b58c3857447796f70ef997d80f1, type: 3}
+  - ReloadClip: {fileID: 8300000, guid: 23a305e1700c84fd8bb7a2b15af42894, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
